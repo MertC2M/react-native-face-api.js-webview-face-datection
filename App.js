@@ -186,7 +186,7 @@ export default class App extends Component {
                                 this.startFaceDetection();
                             }}
                         >
-                            <Text style={{color: 'white', margin: 20}}>Click to start face detection</Text>
+                            <Text style={{color: 'white', margin: 20}}>Click to start face detection.</Text>
                         </TouchableOpacity>
                     </SafeAreaView>
                 </ScrollView>
